@@ -12,6 +12,7 @@ const CardPinAnimation = () => {
                     <div className="bg-violet-300 h-[800px] w-full rounded-[40px] sticky top-52"></div>
                 </div>
             </div>
+            <div className="px-4 min-h-screen py-5"></div>
         </>
     )
 }
